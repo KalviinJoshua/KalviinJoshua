@@ -85,22 +85,7 @@ public class KalviinJoshua {
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<!-- ============================================================ -->
-<!-- GITHUB STATS -->
-<!-- ============================================================ -->
-### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KalviinJoshua&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=B685FF&icon_color=FF6EC7&text_color=c9d1d9&border_radius=12"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalviinJoshua&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B685FF&text_color=c9d1d9&langs_count=8&border_radius=12"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KalviinJoshua&theme=radical&hide_border=true&background=0D1117&ring=B685FF&fire=FF6EC7&currStreakLabel=B685FF&sideLabels=FF6EC7&border_radius=12"/>
-</div>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ============================================================ -->
 <!-- PROJECTS -->
