@@ -99,17 +99,6 @@ public class KalviinJoshua {
   <img src="https://streak-stats.demolab.com?user=KalviinJoshua&theme=radical&hide_border=true&background=0D1117&ring=B685FF&fire=FF6EC7&currStreakLabel=B685FF&sideLabels=FF6EC7&border_radius=12"/>
 </div>
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalviinJoshua&theme=react-dark&bg_color=0d1117&color=B685FF&line=FF6EC7&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-### 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KalviinJoshua&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
