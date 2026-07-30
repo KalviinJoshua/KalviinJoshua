@@ -1,151 +1,21 @@
-<!-- ============================================================ -->
-<!-- HERO BANNER -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=D.%20Kalviin%20Joshua&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
-</p>
-
-<!-- ============================================================ -->
-<!-- TYPING HEADER -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=B685FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Tech;CGPA%3A+9.4%2F10+%F0%9F%94%A5;Java+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Targeting+a+Software+Engineering+Internship+%40+Microsoft" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalviinjoshua"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kalviinjoshua747@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/KalviinJoshua"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalviinJoshua&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ============================================================ -->
-<!-- ABOUT ME — code block -->
-<!-- ============================================================ -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-### 👨‍💻 About Me
-
-```java
-public class KalviinJoshua {
-
-    private String name     = "D. Kalviin Joshua";
-    private String location = "Tamil Nadu, India";
-    private String degree   = "B.Tech, CSE @ SRM Institute of Science & Tech";
-    private double cgpa     = 9.4;
-
-    private String[] stack = {
-        "Java", "Python", "C++", "JavaScript",
-        "React", "Node.js", "MySQL", "Git & GitHub"
-    };
-
-    private String[] learning = {
-        "Advanced DSA (Trees, Graphs, DP)",
-        "System Design Fundamentals",
-        "Cloud Computing Basics"
-    };
-
-    public String motto() {
-        return "Write code that solves real problems, then make it elegant.";
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new KalviinJoshua().motto());
-    }
-}
-```
-
-<br clear="right"/>
-
-<!-- ============================================================ -->
-<!-- TECH STACK -->
-<!-- ============================================================ -->
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+# 💫 About Me:
+D. Kalviin Joshua<br>Email: kalviinjoshua747@gmail.com<br>Phone: +91 6383884129<br>GitHub: https://github.com/KalviinJoshua<br>LinkedIn: https://www.linkedin.com/in/kalviinjoshua<br>Professional Summary<br>Computer Science and Engineering undergraduate at SRM Institute of Science and Technology with a CGPA of 9.8/10. Passionate about software engineering, web development, artificial intelligence, and problem solving. Proficient in Java, Python, C++, JavaScript, React, Node.js, and MySQL. Seeking a Software Engineering Internship at Microsoft.<br>Education<br>B.Tech in Computer Science and Engineering<br>SRM Institute of Science and Technology (2025–2029)<br>CGPA: 9.8/10<br>Technical Skills<br>• Languages: C, C++, Java, Python, JavaScript<br>• Web: HTML, CSS, React, Node.js<br>• Database: MySQL<br>• Tools: Git, GitHub, VS Code<br>Projects<br>Stock Market Analysis Web Application<br>- Built an interactive stock analysis platform with live charts and technical indicators.<br>- Technologies: HTML, CSS, JavaScript, Node.js, MySQL.<br>Budget Tracker<br>- Developed a web application for tracking income and expenses with efficient data management.<br>Relevant Coursework<br>Data Structures & Algorithms<br>Object-Oriented Programming<br>Database Management Systems<br>Web Development<br>Soft Skills<br>• Problem Solving • Teamwork • Communication • Analytical Thinking • Quick Learner<br>Career Objective<br>To obtain a Software Engineering Internship at Microsoft where I can contribute to impactful software projects while expanding my technical and professional skills.<br><br>
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/msseZZUt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kalviinjoshua?igsh=eTlmZW1mbndmdjF1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalviinjoshua?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kalviinjoshua) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KalviinJoshua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalviinjoshua747@gmail.com) 
 
-<!-- ============================================================ -->
-<!-- PROJECTS -->
-<!-- ============================================================ -->
-### 🚀 Featured Projects
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KalviinJoshua &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KalviinJoshua &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KalviinJoshua &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-| 🔗 Project | ⚙️ Stack | ✨ Highlights |
-|---|---|---|
-| **[Stock Market Analysis Web App](https://github.com/KalviinJoshua)** | `HTML` `CSS` `JS` `Node.js` `MySQL` | Live charts + technical indicators on a real MySQL data layer |
-| **[Budget Tracker](https://github.com/KalviinJoshua)** | `HTML` `CSS` `JS` `Node.js` | Full-stack income/expense tracker with clean data management |
+---
+[![](https://komarev.com/ghpvc/?username=KalviinJoshua &icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-<!-- ============================================================ -->
-<!-- CAREER FOCUS -->
-<!-- ============================================================ -->
-### 🎯 Career Focus
-
-<div align="center">
-
-| 🎓 | Academic Excellence | CGPA **9.4/10** in B.Tech CSE |
-|---|---|---|
-| 💻 | Full-Stack Builder | 2 shipped web apps — frontend + backend + MySQL |
-| 🧠 | Strong Fundamentals | DSA · OOP · DBMS · Web Development |
-| 🎯 | Current Target | Software Engineering Internship @ **Microsoft** |
-
-</div>
-
-<!-- ============================================================ -->
-<!-- CURRENTLY LEARNING -->
-<!-- ============================================================ -->
-### 📚 Currently Learning
-
-```text
-🧱 Data Structures & Algorithms → Advanced Trees, Graphs, DP for interviews
-🏗️ System Design               → Scalability, Databases, API design basics
-☁️ Cloud Fundamentals          → Deployment, hosting & cloud-native basics
-🌐 Full-Stack Depth            → React patterns, Express, REST APIs
-```
-
-<!-- ============================================================ -->
-<!-- EDUCATION -->
-<!-- ============================================================ -->
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech, Computer Science & Engineering | SRM Institute of Science and Technology | 2025 – 2029 | CGPA: 9.4/10 |
-
-</div>
-
-<!-- ============================================================ -->
-<!-- FOOTER -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=150&section=footer&animation=fadeIn"/>
-</p>
-
-<p align="center"><i>📫 Let's connect — kalviinjoshua747@gmail.com</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
