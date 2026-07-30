@@ -1,153 +1,135 @@
-D. Kalviin Joshua
-
-Computer Science Engineering Student | Software Engineering & AI Enthusiast
-
-⚠️ Note: This is a starter production-ready README generated from your resume. Replace placeholder repository links with your actual repositories.
-
+<!-- ============================================================ -->
+<!-- HEADER — release-note concept, no waving capsule banner -->
+<!-- ============================================================ -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=D.%20Kalviin%20Joshua&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Software%20that%20Solves%20Real%20Problems&descAlignY=62&descSize=16" width="100%">
+  <img src="https://img.shields.io/badge/release-v1.0.0--sophomore-8839ef?style=for-the-badge&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/status-actively--shipping-40a02b?style=for-the-badge&labelColor=1e1e2e"/>
 </p>
 
+<h1 align="center">D. Kalviin Joshua</h1>
+<p align="center"><sub>CHANGELOG.md — a running log of a CS undergrad becoming an engineer</sub></p>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Technology;CGPA+9.8%2F10;Java+%7C+Python+%7C+React+%7C+Node.js;Aspiring+Software+Engineer+%26+AI+Engineer"/>
+  <a href="https://www.linkedin.com/in/kalviinjoshua"><img src="https://img.shields.io/badge/LinkedIn-1e66f5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1e2e"/></a>
+  <a href="mailto:kalviinjoshua747@gmail.com"><img src="https://img.shields.io/badge/Email-d20f39?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1e2e"/></a>
+  <a href="https://github.com/KalviinJoshua"><img src="https://img.shields.io/badge/GitHub-4c4f69?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e"/></a>
+  <img src="https://komarev.com/ghpvc/?username=KalviinJoshua&label=views&color=8839ef&style=flat-square"/>
 </p>
 
-<p align="center">
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+## [1.0.0] — Current build
 
+- CS &amp; Engineering undergrad, **SRM Institute of Science and Technology**, running **9.8/10 CGPA**
+- Actively targeting: **Software Engineering Internship @ Microsoft**
+- Focus this cycle: DSA depth, system design fundamentals, cloud basics
 
-</p>
+<br>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 📦 dependencies — what I build with
 
-> whoami
+Rather than a badge wall, here's the honest manifest:
 
-Name        : D. Kalviin Joshua
-Location    : Tamil Nadu, India
-University  : SRM Institute of Science & Technology
-Degree      : B.Tech Computer Science & Engineering
-CGPA        : 9.8/10
+```json
+{
+  "name": "kalviin-joshua",
+  "version": "1.0.0",
+  "dependencies": {
+    "languages": ["Java", "Python", "C++", "C", "JavaScript"],
+    "frontend":  ["React", "HTML5", "CSS3"],
+    "backend":   ["Node.js"],
+    "database":  ["MySQL"],
+    "tooling":   ["Git", "GitHub", "VS Code"]
+  },
+  "devDependencies": {
+    "learning": [
+      "Advanced DSA (trees, graphs, DP)",
+      "System design fundamentals",
+      "Cloud & deployment basics",
+      "Deeper React + Express + REST"
+    ]
+  }
+}
+```
 
-Focus
-------
-• Software Engineering
-• Artificial Intelligence
-• Full Stack Development
-• Backend Engineering
+<br>
 
-Currently Learning
-------------------
-✓ Advanced DSA
-✓ System Design
-✓ Cloud Fundamentals
-✓ AI Engineering
+## ✨ Added — shipped features
 
-🛠 Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Languages: Java • Python • C • C++ • JavaScript • SQL
+**📈 Stock Market Analysis Web App**
+`HTML` `CSS` `JS` `Node.js` `MySQL`
 
-Frontend: HTML • CSS • React
+Interactive platform for reading market data at a glance — live charts, technical indicators, and a MySQL layer underneath for structured historical data.
 
-Backend: Node.js • REST APIs
+[→ view on GitHub](https://github.com/KalviinJoshua)
 
-Database: MySQL
+</td>
+<td width="50%" valign="top">
 
-Tools: Git • GitHub • VS Code • Postman
+**💰 Budget Tracker**
+`HTML` `CSS` `JS` `Node.js`
 
-Currently Exploring: System Design • Cloud • AI
+Full-stack app for logging income and expenses without the spreadsheet chaos — clean data model, straightforward UX.
 
-🚀 Development Workflow
+[→ view on GitHub](https://github.com/KalviinJoshua)
 
-Think
- ↓
-Design
- ↓
-Code
- ↓
-Debug
- ↓
-Optimize
- ↓
-Deploy
- ↓
-Repeat
+</td>
+</tr>
+</table>
 
-📌 Featured Projects
+<br>
 
-Project
+## 🔧 Fixed / handles well
 
-Stack
+> The soft-skill section, reframed as what actually gets used day to day.
 
-Highlights
+| Trait | Where it shows up |
+|---|---|
+| **Problem solving** | Breaking a vague spec into something buildable before writing a line of code |
+| **Analytical thinking** | Debugging by narrowing the search space, not guessing |
+| **Teamwork &amp; communication** | Surfacing blockers early instead of sitting on them |
+| **Quick learner** | Comfortable picking up a new library or tool mid-project |
 
-Stock Market Analysis
+<br>
 
-HTML, CSS, JS, Node.js, MySQL
+## 📊 Repo activity
 
-Live charts, technical indicators, watchlists
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KalviinJoshua&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalviinJoshua&layout=compact&theme=dracula&hide_border=true&bg_color=1e1e2e&langs_count=8&border_radius=10"/>
+</div>
 
-Budget Tracker
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KalviinJoshua&theme=dark&hide_border=true&background=1e1e2e&ring=8839ef&fire=d20f39&border_radius=10"/>
+</div>
 
-HTML, CSS, JS, Node.js
+<br>
 
-Track income & expenses with organized data
+## 🚧 Unreleased — on the roadmap
 
-📊 GitHub Analytics
+- [ ] Land a Software Engineering Internship — **Microsoft**
+- [ ] Ship a third project applying system-design fundamentals, not just CRUD
+- [ ] Go deeper on cloud deployment (currently basics-level)
+- [ ] Push DSA from "solving" to "solving fast, under pressure"
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KalviinJoshua&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalviinJoshua&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<br>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KalviinJoshua&theme=tokyonight-duo&hide_border=true"/>
-</p>
+## 🎓 Build environment
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalviinJoshua&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
 
-🎯 Career Journey
+| Degree | Institution | Timeline | Score |
+|---|---|---|---|
+| B.Tech, CSE | SRM Institute of Science and Technology | 2025 – 2029 | 9.8 / 10 CGPA |
 
-🎓 B.Tech CSE (2025–2029)
+</div>
 
-⭐ CGPA 9.8/10
-
-💻 Building full-stack applications
-
-🤖 Learning AI and System Design
-
-🎯 Goal: Software Engineering Internship
-
-📚 Learning Roadmap
-
-Completed
-✔ Java
-✔ Python
-✔ C++
-✔ React
-✔ SQL
-
-Learning
-🚀 Advanced DSA
-🚀 System Design
-🚀 Cloud
-🚀 AI
-
-Future
-Machine Learning
-Distributed Systems
-
-🤝 Connect
-
-GitHub: https://github.com/KalviinJoshua
-
-LinkedIn: https://www.linkedin.com/in/kalviinjoshua
-
-Email: kalviinjoshua747@gmail.com
-
-"Building software one commit at a time."
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%">
+  <sub>💬 Open an issue (a.k.a. email <a href="mailto:kalviinjoshua747@gmail.com">kalviinjoshua747@gmail.com</a>) — happy to talk internships, projects, or a gnarly system-design problem.</sub>
 </p>
