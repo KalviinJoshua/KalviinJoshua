@@ -9,7 +9,7 @@
 <!-- TYPING HEADER -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=B685FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Tech;CGPA%3A+9.8%2F10+%F0%9F%94%A5;Java+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Targeting+a+Software+Engineering+Internship+%40+Microsoft" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=B685FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Tech;CGPA%3A+9.4%2F10+%F0%9F%94%A5;Java+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Targeting+a+Software+Engineering+Internship+%40+Microsoft" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ public class KalviinJoshua {
     private String name     = "D. Kalviin Joshua";
     private String location = "Tamil Nadu, India";
     private String degree   = "B.Tech, CSE @ SRM Institute of Science & Tech";
-    private double cgpa     = 9.8;
+    private double cgpa     = 9.4;
 
     private String[] stack = {
         "Java", "Python", "C++", "JavaScript",
@@ -108,7 +108,7 @@ public class KalviinJoshua {
 
 <div align="center">
 
-| 🎓 | Academic Excellence | CGPA **9.8/10** in B.Tech CSE |
+| 🎓 | Academic Excellence | CGPA **9.4/10** in B.Tech CSE |
 |---|---|---|
 | 💻 | Full-Stack Builder | 2 shipped web apps — frontend + backend + MySQL |
 | 🧠 | Strong Fundamentals | DSA · OOP · DBMS · Web Development |
@@ -137,7 +137,7 @@ public class KalviinJoshua {
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech, Computer Science & Engineering | SRM Institute of Science and Technology | 2025 – 2029 | CGPA: 9.8/10 |
+| B.Tech, Computer Science & Engineering | SRM Institute of Science and Technology | 2025 – 2029 | CGPA: 9.4/10 |
 
 </div>
 
