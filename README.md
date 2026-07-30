@@ -25,38 +25,7 @@
 <!-- ============================================================ -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class KalviinJoshua {
 
-    private String name        = "D. Kalviin Joshua";
-    private String location    = "Tamil Nadu, India";
-    private String degree      = "B.Tech, Computer Science & Engineering";
-    private String institute   = "SRM Institute of Science and Technology";
-    private double cgpa        = 9.8;
-
-    private String[] stack = {
-        "Java", "Python", "C++", "JavaScript",
-        "React", "Node.js", "MySQL", "Git & GitHub"
-    };
-
-    private String[] currentlyLearning = {
-        "Advanced Data Structures & Algorithms",
-        "System Design Fundamentals",
-        "Cloud Computing Basics"
-    };
-
-    private String funFact =
-        "I enjoy turning raw data into live, interactive dashboards.";
-
-    public String motto() {
-        return "Write code that solves real problems, then make it elegant.";
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new KalviinJoshua().motto());
-    }
-}
-```
 
 <br clear="right"/>
 
